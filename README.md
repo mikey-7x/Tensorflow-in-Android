@@ -19,6 +19,11 @@ This guide walks you through setting up **TensorFlow 2.13.1** (CPU version) on *
 This setup is **unique** and **cutting-edge** for ARM64 Android devices. Most setups don’t enable TensorFlow directly in Termux, but here’s how you can do it, making it a **powerful tool** for those looking to experiment with AI on mobile devices.
 
 ---
+<p align="center">
+  <img src="banner.png" alt="TensorFlow in Android by mikey-7x" width="800"/>
+</p>
+
+---
 
 ## Requirements
 
