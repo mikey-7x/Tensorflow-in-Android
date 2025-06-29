@@ -20,7 +20,7 @@ This setup is **unique** and **cutting-edge** for ARM64 Android devices. Most se
 
 ---
 <p align="center">
-  <img src="banner.png" alt="TensorFlow in Android by mikey-7x" width="800"/>
+  <img src="Tf.png" alt="TensorFlow in Android by mikey-7x" width="800"/>
 </p>
 
 ---
