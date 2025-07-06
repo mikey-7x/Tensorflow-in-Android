@@ -81,12 +81,12 @@ source ~/.bashrc  # or source ~/.zshrc for Zsh
 ---
 
 3. Install Python 3.8.18
-```
+   
 Install the correct version of Python:
+
 ```
-
 pyenv install 3.8.18
-
+```
 
 ---
 
