@@ -65,7 +65,11 @@ Run the following to install pyenv:
 curl https://pyenv.run | bash
 ```
 
-After installation, update your shell configuration file (~/.bashrc or ~/.zshrc), and add the following lines at the bottom:
+After installation, update your shell configuration file (~/.bashrc or ~/.zshrc) through:
+```
+nano ~/.bashrc
+```
+, and add the following lines at the bottom:
 ```
 export PYENV_ROOT="$HOME/.pyenv"
 export PATH="$PYENV_ROOT/bin:$PATH"
